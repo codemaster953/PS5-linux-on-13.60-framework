@@ -59,4 +59,5 @@ If the payload, Linux image, and boot procedure are compatible, Linux should sta
 
   Download link
   PS5 linux file = https://drive.google.com/file/d/1E1C-S03gmzaElGeRgJlCTp9PHMvLjspi/view?usp=drive_link
+  
   1360 linux.elf = https://drive.google.com/file/d/1E1C-S03gmzaElGeRgJlCTp9PHMvLjspi/view?usp=drive_link
