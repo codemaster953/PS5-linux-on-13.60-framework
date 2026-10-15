@@ -35,6 +35,7 @@ https://etcher.balena.io/
 5. Verify that you selected the correct drive.
 6. Click **Flash** and wait for the process to finish.
 7. Safely eject the USB drive after flashing is complete.
+8. Connect the USB drive to PS5 back port.
 
 **Warning:** Flashing erases the existing contents of the selected USB drive.
 
